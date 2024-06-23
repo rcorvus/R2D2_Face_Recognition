@@ -1,4 +1,4 @@
-# R2D2_Face_Recognition
+# R2D2 Face Recognition
 Created back in 2019, this is how R2-D2 was originally trained to recognize our family members
 
 In order to use this code, you'll need to create folders called "dataset" and "output" in the root.  
