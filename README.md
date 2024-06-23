@@ -1,5 +1,11 @@
 # R2D2 Face Recognition
-Created back in 2019, this is how R2-D2 was originally trained to recognize our family members
+Created back in 2019, this is how R2-D2 was originally trained to recognize our family members.  
+
+You can see it in action in these videos:
+https://www.youtube.com/watch?v=nVGMZYLHHLA  
+https://www.youtube.com/watch?v=dy-WQhbBqpY  
+https://www.youtube.com/watch?v=4k3oPkpQ6no  
+https://www.youtube.com/shorts/HKz2yPS6yVc  
 
 In order to use this code, you'll need to create folders called "dataset" and "output" in the root.  
 
