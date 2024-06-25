@@ -1,5 +1,5 @@
 # R2D2 Face Recognition
-This is how I originally trained my R2-D2 to recognize our family members, play peek-a-boo, and turn his head back and forth tracking people's movement.
+This is how I originally trained my R2-D2 in a foundational model to recognize our family members, play peek-a-boo, and turn his head back and forth tracking people's movement.
 
 You can see it in action in these videos:  
 https://www.youtube.com/watch?v=nVGMZYLHHLA  
