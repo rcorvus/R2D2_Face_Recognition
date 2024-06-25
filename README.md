@@ -1,5 +1,5 @@
 # R2D2 Face Recognition
-Created back in 2019, this is how R2-D2 was originally trained to recognize our family members.  
+This is how I originally trained my R2-D2 to recognize our family members, play peek-a-boo, and turn his head back and forth tracking people's movement.
 
 You can see it in action in these videos:  
 https://www.youtube.com/watch?v=nVGMZYLHHLA  
@@ -21,3 +21,4 @@ The output folder will have the output of the video feed as it detects people an
 
 ![image](https://github.com/rcorvus/R2D2_Face_Recognition/assets/5025458/3456c1d9-a2f8-41ce-8359-9c906fb1793a)  
 
+This was created back in 2019.
